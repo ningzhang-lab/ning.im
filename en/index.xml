@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ens on Ning Zhang</title>
+    <title>Blogs on Ning Zhang</title>
     <link>https://ning.im/en/</link>
-    <description>Recent content in Ens on Ning Zhang</description>
+    <description>Recent content in Blogs on Ning Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Jan 2017 00:00:00 +0000</lastBuildDate>
@@ -30,10 +30,10 @@
     
     <item>
       <title>About</title>
-      <link>https://ning.im/en/about/</link>
+      <link>https://ning.im/en/1/01/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>Ning Zhang</author>
-      <guid>https://ning.im/en/about/</guid>
+      <guid>https://ning.im/en/1/01/about/</guid>
       <description>
         <![CDATA[
         <p>What is the Economics?</p>
@@ -48,7 +48,7 @@
 <p>I am not good at coding, obviously, this website has some bugs that I cannot fix it.</p>
 
         
-        <script>location.href='https://ning.im/en/about/';</script>
+        <script>location.href='https://ning.im/en/1/01/about/';</script>
         
         ]]>
       </description>

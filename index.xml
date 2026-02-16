@@ -10,7 +10,7 @@
     
     
     <item>
-      <title>Ens</title>
+      <title>Blogs</title>
       <link>https://ning.im/en/</link>
       <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
       <author>Ning Zhang</author>
@@ -20,22 +20,6 @@
         
         
         <script>location.href='https://ning.im/en/';</script>
-        
-        ]]>
-      </description>
-    </item>
-    
-    
-    
-    <item>
-      <title>Cns</title>
-      <link>https://ning.im/cn/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      <author>Ning Zhang</author>
-      <guid>https://ning.im/cn/</guid>
-      <description>
-        <![CDATA[
-        
         
         ]]>
       </description>
@@ -62,6 +46,22 @@
 <h3 id="papers">Papers</h3>
 <p>none</p>
 
+        
+        ]]>
+      </description>
+    </item>
+    
+    
+    
+    <item>
+      <title>日志</title>
+      <link>https://ning.im/cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Ning Zhang</author>
+      <guid>https://ning.im/cn/</guid>
+      <description>
+        <![CDATA[
+        
         
         ]]>
       </description>
