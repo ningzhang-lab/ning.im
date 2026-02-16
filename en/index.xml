@@ -30,10 +30,10 @@
     
     <item>
       <title>About</title>
-      <link>https://ning.im/en/1/01/about/</link>
+      <link>https://ning.im/en/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>Ning Zhang</author>
-      <guid>https://ning.im/en/1/01/about/</guid>
+      <guid>https://ning.im/en/about/</guid>
       <description>
         <![CDATA[
         <p>What is the Economics?</p>
@@ -48,7 +48,7 @@
 <p>I am not good at coding, obviously, this website has some bugs that I cannot fix it.</p>
 
         
-        <script>location.href='https://ning.im/en/1/01/about/';</script>
+        <script>location.href='https://ning.im/en/about/';</script>
         
         ]]>
       </description>
